@@ -1,8 +1,5 @@
-annotations
-train2017
-val2017
-*.zip
-train_32x32.mat
-test_32x32.mat
+data
+solutions
 .ipynb_checkpoints
-
+.DS_Store
+._.DS_Store
